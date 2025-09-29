@@ -2,7 +2,7 @@
 
 **`Student Developer @ NSUT | ICE'28 | Web Dev | AI/ML | Data Analysis`**
 
-🎓 **Final Year Student** at **Netaji Subhas University of Technology (NSUT)**  
+🎓 **Second Year Student** at **Netaji Subhas University of Technology (NSUT)**  
 📚 **Branch:** Instrumentation & Control Engineering (ICE) - Batch 2028  
 💻 **Passionate about:** Full-Stack Web Development, Artificial Intelligence, Machine Learning & Data Analytics
 
